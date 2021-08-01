@@ -17,6 +17,7 @@ set(SQRT_SOURCE ${SQRT_SOURCE_DIR}/main.cpp) # if not defined , CMake cannot fin
 
 set(SQRT_LIB_DIR lib)
 set(SQRT_LIB mymath) # file /mymath set as library
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 
 

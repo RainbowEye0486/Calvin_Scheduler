@@ -12,7 +12,7 @@ you can use command
 $docker images
 ```
 to check if there is a images names `devops_template` in your images list.
-execute run command to run up your cotainer , name it as `devOpsDemo` or anything you name it.
+execute run command to run up your container , name it as `devOpsDemo` or anything you name it.
 ```shell
 $docker run -it --name devOpsDemo devops_template
 ```

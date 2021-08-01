@@ -5,6 +5,8 @@ cmake_minimum_required(VERSION 3.15)
 set(TEST_PROJECT_NAME MYMATHLIBTEST)
 set(TEST_PROJECT_EXE_NAME mymathTest)
 set(LIBRARY_TEST_SOURCE mymath_test.cpp)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+
 
 project(${TEST_PROJECT_NAME})
 
