@@ -8,7 +8,7 @@ using namespace mymath;
 int main (int argc, char *argv[])
 {
     
-    //just print version of project version
+    //just print version of the project
     cout << "Project Version: " << PROJECT_VERSION << endl;
     cout << "Project Version Major: " << PROJECT_VERSION_MAJOR << endl;
     cout << "Projevt Version Minor: " << PROJECT_VERSION_MINOR << endl;
