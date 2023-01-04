@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++  -DSCHEDULER_EXPORTS  -g -fPIC   -std=gnu++11 -o CMakeFiles/SCHEDULER.dir/src/Scheduler.cpp.o -c /home/airobots/Calvin_Scheduler/src/Scheduler.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/Scheduler.cpp"
+},
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++  -DSCHEDULER_EXPORTS  -g -fPIC   -std=gnu++11 -o CMakeFiles/SCHEDULER.dir/src/SA.cpp.o -c /home/airobots/Calvin_Scheduler/src/SA.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/SA.cpp"
+},
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++  -DSCHEDULER_EXPORTS  -g -fPIC   -std=gnu++11 -o CMakeFiles/SCHEDULER.dir/src/GA.cpp.o -c /home/airobots/Calvin_Scheduler/src/GA.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/GA.cpp"
+},
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++   -I/home/airobots/Calvin_Scheduler/include -I/home/airobots/Calvin_Scheduler/src -I/home/airobots/Calvin_Scheduler/data -I/home/airobots/Calvin_Scheduler/lib/json/include  -g   -std=gnu++11 -o CMakeFiles/scheduler.dir/src/main.cpp.o -c /home/airobots/Calvin_Scheduler/src/main.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/main.cpp"
+},
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++   -I/home/airobots/Calvin_Scheduler/include -I/home/airobots/Calvin_Scheduler/src -I/home/airobots/Calvin_Scheduler/data -I/home/airobots/Calvin_Scheduler/lib/json/include  -g   -std=gnu++11 -o CMakeFiles/scheduler.dir/src/Scheduler.cpp.o -c /home/airobots/Calvin_Scheduler/src/Scheduler.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/Scheduler.cpp"
+},
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++   -I/home/airobots/Calvin_Scheduler/include -I/home/airobots/Calvin_Scheduler/src -I/home/airobots/Calvin_Scheduler/data -I/home/airobots/Calvin_Scheduler/lib/json/include  -g   -std=gnu++11 -o CMakeFiles/scheduler.dir/src/SA.cpp.o -c /home/airobots/Calvin_Scheduler/src/SA.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/SA.cpp"
+},
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++   -I/home/airobots/Calvin_Scheduler/include -I/home/airobots/Calvin_Scheduler/src -I/home/airobots/Calvin_Scheduler/data -I/home/airobots/Calvin_Scheduler/lib/json/include  -g   -std=gnu++11 -o CMakeFiles/scheduler.dir/src/GA.cpp.o -c /home/airobots/Calvin_Scheduler/src/GA.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/GA.cpp"
+},
+{
+  "directory": "/home/airobots/Calvin_Scheduler/build",
+  "command": "/usr/bin/c++   -I/home/airobots/Calvin_Scheduler/include -I/home/airobots/Calvin_Scheduler/src -I/home/airobots/Calvin_Scheduler/data -I/home/airobots/Calvin_Scheduler/lib/json/include  -g   -std=gnu++11 -o CMakeFiles/scheduler.dir/src/GP.cpp.o -c /home/airobots/Calvin_Scheduler/src/GP.cpp",
+  "file": "/home/airobots/Calvin_Scheduler/src/GP.cpp"
+}
+]
